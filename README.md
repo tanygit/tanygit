@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanygit&show_icons=true&locale=en" alt="tanygit" /></p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanygit&" alt="tanygit" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanygit&" alt="tanygit" /></p>
