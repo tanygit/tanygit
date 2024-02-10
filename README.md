@@ -17,16 +17,9 @@
 
 <br><br>
 
-<p align="center">
-<div style="display: flex; flex-direction: column;">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanygit&show_icons=true&locale=en&layout=compact" height="190"/>
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=tanygit&show_icons=true&locale=en" />
- <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=tanygit&" />
-</div>
-
-<!--<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanygit&show_icons=true&locale=en&layout=compact" alt="tanygit" height="155"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanygit&show_icons=true&locale=en&layout=compact" alt="tanygit" height="155"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanygit&show_icons=true&locale=en" alt="tanygit" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanygit&" alt="tanygit" /></p>-->
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanygit&" alt="tanygit" /></p>
 
