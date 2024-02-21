@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay M S</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanygit&show_icons=true&locale=en&layout=compact" alt="tanygit" height="155"/></p>
 
 - 🌱 I’m currently learning **Python and C**
 
@@ -16,7 +17,6 @@
 
 <br><br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanygit&show_icons=true&locale=en&layout=compact" alt="tanygit" height="155"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanygit&show_icons=true&locale=en" alt="tanygit" /></p>
 
