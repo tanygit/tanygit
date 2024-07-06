@@ -20,6 +20,5 @@
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanygit&show_icons=true&locale=en" alt="tanygit" width="400"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanygit&" alt="tanygit" width="380"/>
 </p>
 
