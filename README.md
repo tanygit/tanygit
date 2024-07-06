@@ -19,6 +19,6 @@
 
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanygit&show_icons=true&locale=en" alt="tanygit" width="400"/>
+<right><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanygit&show_icons=true&locale=en" alt="tanygit" width="400"/></right>
 </p>
 
