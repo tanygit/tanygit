@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay M S</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
-- 🌱 I’m currently learning **Python and C**
-
-- 👀 I'm interested in **AI/ML**
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanygit&show_icons=true&locale=en&layout=compact" alt="tanygit" height="155"/></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
